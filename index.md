@@ -22,6 +22,7 @@
   <h1> Will you be my valentine ?</h1>
   <button type="button" id="y" onclick="myYesFuntion()"> Yes</button>
   <button type="button" id="n" onmouseover="myFunction()">No</button>
+  <p id="para"> </p>
   <script>
 	function myFunction(){
 		document.getElementById("n").style.left = (Math.random() * 500) + "px";
@@ -31,7 +32,7 @@
 </script>
 <script>
        function myYesFunction() {
-	    document.write ("Your waiting list number is 56");
+	    document.getElementById("para").innerHTML = "You are in waiting list number 56";
 	}
 </script>
 </body>
