@@ -20,7 +20,7 @@
 </head>
 <body>
   <h1> Will you be my valentine ?</h1>
-  <button type="button" id="y" onclick="myYesFuntion()"> Yes</button>
+  <button type="button" id="y" onclick="myYesFunction()"> Yes</button>
   <button type="button" id="n" onmouseover="myFunction()">No</button>
   <p id="para"> </p>
   <script>
