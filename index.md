@@ -29,7 +29,7 @@
 </script>
 <script>
        function myYesFunction() {
-	    alert("");
+	    document.write ("Your waiting list number is 56");
 	}
 </script>
 </body>
