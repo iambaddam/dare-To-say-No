@@ -35,7 +35,7 @@
        function myyesFunction() {
 	    //document.getElementById("para").innerHTML = "You are in waiting list number 56";
 	    i++;
-	    alert("You are in waiting list. Your number is " + i);
+	    alert("You are in waiting list. Your number is " + Math.floor(Math.random() * 40) + 1 + i);
 	}
 </script>
 </body>
