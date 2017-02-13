@@ -32,7 +32,8 @@
 </script>
 <script>
        function myyesFunction() {
-	    document.getElementById("para").innerHTML = "You are in waiting list number 56";
+	    //document.getElementById("para").innerHTML = "You are in waiting list number 56";
+	    alert("You are in waiting list. Your number is 511");
 	}
 </script>
 </body>
