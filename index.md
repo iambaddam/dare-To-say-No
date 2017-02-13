@@ -16,7 +16,7 @@
 </head>
 <body>
   <h1> Will you be my valentine ?</h1>
-  <button type="button" id="y" onmouseover="myYesFuntion()"> Yes</button>
+  <button type="button" id="y" onclick="myYesFuntion()"> Yes</button>
   <button type="button" id="n" onmouseover="myFunction()">No</button>
   <script>
 	function myFunction(){
