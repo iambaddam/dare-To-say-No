@@ -6,12 +6,14 @@
 	top:100px;
 	left: 50px;
 	background-color: red;
+	color: black;
 }
 #y {
 	position: absolute;
 	top:100px;
 	left: 100px;
 	background-color: green;
+	color: black;
 }
 </style>
 	<title> Will you be my valentine</title>
