@@ -26,8 +26,10 @@
 		document.getElementById("n").style.top = (Math.random() * 500) + "px";
 		//myFunction();
 	}
-	function myYesFunction() {
-	    alert("so sweet");
+</script>
+<script>
+       function myYesFunction() {
+	    alert("");
 	}
 </script>
 </body>
