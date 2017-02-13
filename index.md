@@ -24,6 +24,7 @@
   <button type="button" id="n" onmouseover="myFunction()">No</button>
   <p id="para"> </p>
   <script>
+        var i=0;
 	function myFunction(){
 		document.getElementById("n").style.left = (Math.random() * 500) + "px";
 		document.getElementById("n").style.top = (Math.random() * 500) + "px";
@@ -33,7 +34,8 @@
 <script>
        function myyesFunction() {
 	    //document.getElementById("para").innerHTML = "You are in waiting list number 56";
-	    alert("You are in waiting list. Your number is 511");
+	    i++;
+	    alert("You are in waiting list. Your number is " + i);
 	}
 </script>
 </body>
