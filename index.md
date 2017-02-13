@@ -22,7 +22,7 @@
 	function myFunction(){
 		document.getElementById("n").style.left = (Math.random() * 500) + "px";
 		document.getElementById("n").style.top = (Math.random() * 500) + "px";
-		myFunction();
+		//myFunction();
 	}
 	function myYesFunction() {
 	    alert("so sweet");
