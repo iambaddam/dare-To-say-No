@@ -35,7 +35,7 @@
        function myyesFunction() {
 	    //document.getElementById("para").innerHTML = "You are in waiting list number 56";
 	    //i = Math.floor(Math.random() * 50) + 1;
-	    alert("JAI BAJRANGABALI!");
+	    alert("WHY KATTAPPA KILLED BAHUBALI ???");
 	}
 </script>
 </body>
